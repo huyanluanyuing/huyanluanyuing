@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Wenxuan Hao 👋</h1>
-<h3 align="center">Graduate Student @ University of Waterloo | Backend Engineer</h3>
+<h3 align="center">Graduate Student @ University of Waterloo | Full-Stack Engineer</h3>
 
 <p align="center">
   <a href="mailto:houx7844@gmail.com">
