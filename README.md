@@ -12,17 +12,17 @@
 
 <br>
 
-### 👨‍💻 About Me
+### About Me
 
 I am currently pursuing a **Master of Electrical and Computer Engineering** at the **University of Waterloo** (Expected Aug 2026). Previously, I worked as a **Backend Software Engineer Intern** at **DXC Technology**, where I refactored legacy monolithic systems into modern web-based architecture.
 
-* 🔭 I’m currently working on: Distributed systems & Cloud computing.
-* 🏆 **Award:** National First Prize in the Xiaomi Cup (Top 2%).
-* 🎓 **Education:** M.Eng at UWaterloo; B.CS at Dalian Maritime University.
+*  I’m currently working on: Distributed systems & Cloud computing.
+*  **Award:** National First Prize in the Xiaomi Cup (Top 2%).
+*  **Education:** M.Eng at UWaterloo; B.CS at Dalian Maritime University.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -46,15 +46,15 @@ I am currently pursuing a **Master of Electrical and Computer Engineering** at t
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### 🛒 [E-commerce Flash Sale System](https://github.com/huyanluanyuing/E-commerce-Flash-Sale-System)
+#### [E-commerce Flash Sale System](https://github.com/huyanluanyuing/E-commerce-Flash-Sale-System)
 *A high-concurrency backend system designed to handle massive traffic spikes.*
 * **Performance:** Boosted throughput by **110% (1.2k to 2.5k QPS)** using multi-level caching (JVM + Redis).
 * **Reliability:** Stabilized DB writes at 500 TPS using **RabbitMQ** for traffic peak shaving.
 * **Security:** Prevented overselling with Redis Lua scripts and blocked bot traffic via dynamic URLs.
 
-#### 🏥 [Distributed Patient Management System](https://github.com/huyanluanyuing/Patient-Service)
+#### [Distributed Patient Management System](https://github.com/huyanluanyuing/Patient-Service)
 *A microservices-based healthcare platform.*
 * **Architecture:** Decoupled services (Auth, Patient, Analytics) communicating via **gRPC** and **Kafka**.
 * **Infrastructure:** Fully containerized with **Docker** and deployed to AWS LocalStack.
