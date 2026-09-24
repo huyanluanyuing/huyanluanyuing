@@ -14,7 +14,7 @@
 
 ### About Me
 
-I am currently pursuing a **Master of Electrical and Computer Engineering** at the **University of Waterloo** (Expected Aug 2026). Previously, I worked as a **Backend Software Engineer Intern** at **DXC Technology**, where I refactored legacy monolithic systems into modern web-based architecture.
+I am currently pursuing a **Master of Electrical and Computer Engineering** at the **University of Waterloo**. Previously, I worked as a **Backend Software Engineer Intern** at **DXC Technology**, where I refactored legacy monolithic systems into modern web-based architecture.
 
 *  I’m currently working on: Distributed systems & Cloud computing.
 *  **Award:** National First Prize in the Xiaomi Cup (Top 2%).
